@@ -1,2 +1,2 @@
-# ClassMetotDemo
-First C# Repo
+# C# Homeworks
+Kodlama.io C# Course
